@@ -2,6 +2,11 @@
 
 A machine learning-powered fashion recommendation system that suggests **similar** and **complementary** items based on a query image. This project helps small fashion businesses offer personalized stylistic recommendations using deep learning.
 
+- Automates fashion recommendations for e-commerce — suggesting similar & compatible items instantly.
+- Achieved **98% Precision@K** on 5,000 curated outfits.
+- Built in <24h at HackIIITV (1st Place) — shipped a working demo under hackathon constraints.
+- Replaces manual styling guesswork with AI-driven outfit matching.
+
 ---
 
 ## Problem Statement
